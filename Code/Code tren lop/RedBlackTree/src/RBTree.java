@@ -71,6 +71,31 @@ public class RBTree {
 
     public Node search(int x){
         return search(x,root);
-
     }
+
+    public Node findMaxNode(Node v) {
+        if (v == null) {
+            return null;
+        } else {
+            Node p = v;
+            while(p.right!=null){
+                p=p.right;
+            }
+            return p;
+        }
+    }
+
+    public Node findMinNode(Node v) {
+        if (v == null) {
+            return null;
+        } else {
+            Node p = v;
+            while(p.left!=null){
+                p=p.left;
+            }
+            return p;
+        }
+    }
+
+
 }
