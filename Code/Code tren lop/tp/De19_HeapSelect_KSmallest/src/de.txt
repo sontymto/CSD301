@@ -1,0 +1,3 @@
+Create a program that require the user to input an array of n dates. Each date has a year (int), 
+a month (int) and a day (int). Then require the user to input an integer k and use heap to select the kth smallest date 
+(a date A is smaller than a date B if the date A is before the date B in the calendar). Display the list of input dates and the selected date.

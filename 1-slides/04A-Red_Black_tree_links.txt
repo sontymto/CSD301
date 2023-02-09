@@ -1,0 +1,18 @@
+Red-Black Trees - Data Structures
+https://www.youtube.com/watch?v=ZxCvM-9BaXE
+
+Red Black Tree - insertion
+https://www.youtube.com/watch?v=PhY56LpCtP4
+
+Red Black Tree Demo
+https://www.cs.usfca.edu/~galles/visualization/RedBlack.html
+=====================================================
+Red-Black Tree | Set 1 (Introduction)
+https://www.geeksforgeeks.org/red-black-tree-set-1-introduction-2/?ref=lbp
+
+Red-Black Tree | Set 2 (Insert)
+https://www.geeksforgeeks.org/red-black-tree-set-2-insert/
+
+Red-Black Tree | Set 3 (Delete)
+https://www.geeksforgeeks.org/red-black-tree-set-3-delete-2/?ref=lbp
+

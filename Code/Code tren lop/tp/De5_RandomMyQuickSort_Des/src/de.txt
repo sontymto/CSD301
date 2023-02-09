@@ -1,0 +1,5 @@
+Create a program that require the user to input an array of n cars. 
+Each car has a number (String), a model (String) and a color (String). 
+Then use Randomized quicksort to sort the array 
+in descending order of number. 
+Display the list of cars before and after sorting.

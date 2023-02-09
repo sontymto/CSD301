@@ -1,0 +1,11 @@
+/*
+Input: The user is prompted to input an array of n foods, where each food has a name (a string), a category (a string), and a price (an integer).
+
+Sorting: The foods are sorted based on their categories first, and if their categories are the same, they are sorted based on their prices. This is done by implementing the compareTo() method in the Food class, which implements the Comparable interface. The compareTo() method returns a negative integer, zero, or a positive integer as this object is less than, equal to, or greater than the specified object.
+
+Selection: The program uses the select() method to find the kth smallest food using the Quickselect algorithm. This algorithm selects a pivot element from the array, and partition the array into two parts: one part with elements that are less than or equal to the pivot, and the other part with elements that are greater than the pivot. The pivot index is used to determine which part of the array to continue searching in until the kth smallest element is found.
+
+Output: The program outputs the list of foods, and the selected food.
+
+The code also includes a main() method to run the program and handle user input, as well as helper methods such as partition() and swap() that are used in the Quickselect algorithm.
+*/

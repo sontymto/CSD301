@@ -1,0 +1,6 @@
+/*
+*Create a program that require the user to input an array of n students. 
+*Each student has a code (String), a name (String), and an age (int). 
+*Then use Quick sort by using the last element of the array as pivot to sort the array in descending order of code. 
+*Display the list of students before and after sorting.
+*/

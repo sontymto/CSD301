@@ -1,0 +1,5 @@
+Convex Hull Algorithm Presentation
+https://www.youtube.com/watch?v=VP9ylElm1yY
+
+Graham Scan: Background & Python Code
+https://www.youtube.com/watch?v=vPDPE66nhlo

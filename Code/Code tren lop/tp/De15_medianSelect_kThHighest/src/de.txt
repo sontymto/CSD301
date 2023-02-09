@@ -1,0 +1,7 @@
+Create a program that require the user to input an array of n courses. 
+Each course has a Code (String), a name (String) and a credit (int). 
+Then require the user to input an integer k and use the SELECT method (using median) 
+to select kth highest courses (a course A is considered as smaller than a course B if 
+the credit of A is smaller than the credit of B; if A and B has the same credit, 
+A is considered as smaller than B if the name of A 
+is greater than the name of B). Display the list of courses and the selected course.

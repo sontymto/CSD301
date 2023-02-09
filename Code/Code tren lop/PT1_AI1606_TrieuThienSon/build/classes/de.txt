@@ -1,0 +1,7 @@
+Create a program that require the user to input an array of n foods. 
+Each food has a code (String), a name (String), a category (String) and a price (int). 
+Note that the code of food must be unique. Then require the user to input an integer k 
+and use the SELECT method (using median) to select kth smallest food 
+(a food A is considered as smaller than a food B if the category of A is smaller than the category of B; 
+if A and B has the same category, A is considered as smaller than B if the price of A is smaller than the price of B). 
+Display the list of foods and the selected food.

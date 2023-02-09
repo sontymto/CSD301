@@ -1,0 +1,5 @@
+Create a program that require the user to input an array of n accounts. 
+Each account has a number (String), an owner (String) and a balance (double). 
+Then use Merge sort to sort the array in ascending order of owner; 
+for accounts of the same owner, sort them in descending
+order of balance. Display the ldoubist of accounts before and after sorting

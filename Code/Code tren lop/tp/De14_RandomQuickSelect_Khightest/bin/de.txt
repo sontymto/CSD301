@@ -1,0 +1,10 @@
+Create a program that require the user to 
+input an array of n rhombuses (hình thoi). 
+Each rhombus has a two diagonals d1 (double)
+and d2 (double) and a color (String). 
+Then require the user to input an integer
+k and use random quicksort to select 
+the rhombuses with the kth highest areas 
+(the area of a rhombus is calculated as (d1*d2)/2).
+Display the list of all rhombuses 
+and the selected rhombus.
